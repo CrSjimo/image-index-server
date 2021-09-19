@@ -1,0 +1,23 @@
+{
+  "name": "cute_album",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "@hapi/inert": "^6.0.4",
+    "@types/exif": "^0.6.3",
+    "@types/gm": "^1.18.10",
+    "@types/hapi__hapi": "^20.0.9",
+    "@types/hapi__inert": "^5.2.3",
+    "@types/yaml": "^1.9.7",
+    "exif": "^0.6.0",
+    "gm": "^1.23.1",
+    "yaml": "^1.10.2"
+  }
+}
